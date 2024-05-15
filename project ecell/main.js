@@ -1,4 +1,4 @@
-// Initialize Vue.js
+
 new Vue({
     el: '#otpForm',
     methods: {
